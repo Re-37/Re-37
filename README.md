@@ -9,8 +9,11 @@ Lately, I've been spending most of my time building backend AI services, experim
 ## 🛠️ Skills
 
 **Languages:** Python, Java, C, SQL
+
 **AI & Machine Learning:** LLMs, RAG, Agentic AI, Prompt Engineering, NLP, Computer Vision, Deep Learning, Machine Learning
+
 **Frameworks & Tools:** FastAPI, LangChain, OpenAI API, Langfuse, PyTorch, TensorFlow, ROS 2, Docker, Git
+
 **Interests:** AI Engineering, AI Evaluation, Conversational AI, Intelligent Automation, Robotics, Backend Systems
 
 ## 🏆 Latest Achievement
