@@ -22,7 +22,7 @@ Lately, I've been spending most of my time building backend AI services, experim
 
 Ranked **3rd globally** in the TE AI CUP, an international AI competition, by developing an AI solution that competed against teams from around the world.
 
-## 🚀 Projects
+## 🚀 Latest Projects
 
 ### AI Prompt Evaluation Framework
 Building an automated evaluation framework for LLM applications with structured judges, regression testing, fixtures, and quality assurance workflows to make AI behavior more reliable over time.
