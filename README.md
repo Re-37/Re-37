@@ -9,11 +9,8 @@ Lately, I've been spending most of my time building backend AI services, experim
 ## 🛠️ Skills
 
 **Languages:** Python, Java, C, SQL
-
 **AI & Machine Learning:** LLMs, RAG, Agentic AI, Prompt Engineering, NLP, Computer Vision, Deep Learning, Machine Learning
-
 **Frameworks & Tools:** FastAPI, LangChain, OpenAI API, Langfuse, PyTorch, TensorFlow, ROS 2, Docker, Git
-
 **Interests:** AI Engineering, AI Evaluation, Conversational AI, Intelligent Automation, Robotics, Backend Systems
 
 ## 🏆 Latest Achievement
@@ -24,28 +21,22 @@ Ranked **3rd globally** in the TE AI CUP, an international AI competition, by de
 
 ## 🚀 Projects
 
-### AI Prompt Evaluation Framework *(Ongoing)*
-
+### AI Prompt Evaluation Framework
 Building an automated evaluation framework for LLM applications with structured judges, regression testing, fixtures, and quality assurance workflows to make AI behavior more reliable over time.
 
 ### Conversational AI Platform
-
 Working on production AI features including RAG pipelines, prompt management, conversation analytics, and backend AI services.
 
 ### DiabetiFoot *(Ongoing)*
-
 An AI-powered smart insole for early diabetic foot ulcer detection using embedded sensors, machine learning, and real-time monitoring.
 
 ### ROGII Wellbore Geology Prediction *(Ongoing)*
-
 Developing machine learning models for geological prediction using geospatial and geological data, with a focus on feature engineering, model ensembling, and physics-informed approaches.
 
 ### Robotics & Embedded AI
-
 Built robotics projects combining sensors, microcontrollers, ROS 2, and AI-based decision-making.
 
 ---
 
 Thanks for stopping by!
-
 Feel free to explore my projects, and if you're interested in AI, robotics, or building cool things, let's connect.
